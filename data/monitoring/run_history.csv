@@ -1,0 +1,4 @@
+run_timestamp,status,duration_seconds,input_rows,output_rows,quality_status,freshness_status,sla_status,failed_stage,error_message,downstream_impact
+2026-09-23T10:17:07.744744,FAILED,0.01,8,0,FAIL,FAIL,FAIL,Data Quality / SLA,Pipeline stopped because data quality checks failed.,Output dataset not published; downstream consumers protected
+2026-09-23T11:08:04.721202,FAILED,0.02,2,0,FAIL,FAIL,FAIL,Data Quality / SLA,Pipeline stopped because data quality checks failed.,Output dataset not published; downstream consumers protected
+2026-09-23T11:10:29.637873,SUCCESS,0.02,8,8,PASS,PASS,PASS,,,

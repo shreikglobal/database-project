@@ -1,0 +1,4 @@
+Overall SLA: PASS
+Freshness: PASS
+Completeness: PASS
+Quality: PASS
